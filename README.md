@@ -38,6 +38,7 @@
 </p>
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/avanigupta06/count.svg)
 
 ### 🌐 Connect with Me
 
