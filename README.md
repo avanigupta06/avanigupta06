@@ -25,7 +25,6 @@
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
-<img align="left" alt="LangChain" width="26px" src="https://avatars.githubusercontent.com/u/110628165?s=200&v=4" />
 <img align="left" alt="HuggingFace" width="26px" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
 <br/><br/>
 
