@@ -1,7 +1,5 @@
 ## Hi there, I'm <a href="https://github.com/avanigupta06">Avani Gupta 👋!</a>
 
-[![Avani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avanigupta06&theme=react-dark)](https://github.com/avanigupta06/github-readme-activity-graph)
-
 - 🎓 BTech CSE Student | AI + Fullstack Enthusiast
 - 💬 Love blending NLP + Backend + DevOps into real projects
 - 🔭 Currently learning: Generative AI
@@ -39,9 +37,9 @@
 
 ### 🌐 Connect with Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/avani-gupta06/
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]: https://github.com/avanigupta06
+[<img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]: https://leetcode.com/u/avani_gupta06/
 
 ---
 
