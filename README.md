@@ -38,7 +38,7 @@
 </p>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/avanigupta06/count.svg)
+![](https://komarev.com/ghpvc/?username=avanigupta06&color=orange)
 
 ### 🌐 Connect with Me
 
