@@ -15,13 +15,14 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" />
 <img align="left" alt="Streamlit" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
@@ -32,13 +33,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanigupta06&layout=compact&theme=radical" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanigupta06&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avanigupta06&" alt="Current Streak" /></td>
+  </tr>
+</table>
 
 ---
 ![](https://komarev.com/ghpvc/?username=avanigupta06&color=orange)
+![GitHub followers](https://img.shields.io/github/followers/avanigupta06?style=social)
 
 ### 🌐 Connect with Me
 
@@ -50,6 +55,11 @@
   <a href="https://leetcode.com/u/avani_gupta06/"><img alt="LeetCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
 </p>
 
+---
+### 🚀 Featured Projects
+- 📖 [AI-Powered Medical Chatbot](https://github.com/avanigupta06/medical-chatbot) – Flask + Llama-2 + LangChain + Pinecone  
+- ⚡ [Online Judge System](https://github.com/avanigupta06/oj-system) – Django + Docker + AWS  
+- 🎬 [YouTube Chaptering Tool](https://github.com/avanigupta06/youtube-chaptering) – Whisper + NLP + mBART + KeyBERT  
 ---
 
 <!--
