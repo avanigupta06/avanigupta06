@@ -19,7 +19,7 @@
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" />
 <img align="left" alt="Streamlit" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
@@ -35,9 +35,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanigupta06&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avanigupta06&" alt="Current Streak" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanigupta06&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avanigupta06&theme=radical" alt="Current Streak" /></td>
   </tr>
 </table>
 
