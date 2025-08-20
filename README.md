@@ -33,13 +33,14 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanigupta06&show_icons=true&locale=en&layout=compact&theme=radical" width="350" alt="Most Used Languages" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&locale=en&theme=radical" width="400" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avanigupta06&theme=radical" width="400" alt="Current Streak" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avanigupta06&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanigupta06&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
 
 ---
 ![](https://komarev.com/ghpvc/?username=avanigupta06&color=orange)
