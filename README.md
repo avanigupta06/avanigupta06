@@ -38,9 +38,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avanigupta06&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanigupta06&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
 
 ---
 ![](https://komarev.com/ghpvc/?username=avanigupta06&color=orange)
