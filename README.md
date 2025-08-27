@@ -56,7 +56,7 @@
 ### 🚀 Featured Projects
 - 📖 [AI-Powered Medical Chatbot](https://github.com/avanigupta06/medical-chatbot) – Flask + Llama-2 + LangChain + Pinecone  
 - ⚡ [Online Judge System](https://github.com/avanigupta06/OJ-Project) – Django + Docker + AWS  
-- 🎬 [YouTube Chaptering Tool](https://github.com/avanigupta06/Chaptify) – Whisper + NLP + mBART + KeyBERT  
+- 🎬 [Automatic Chapter Generation for Hindi-English YouTube Videos](https://github.com/avanigupta06/Automatic-Chapter-Generation-for-Hindi-English-YouTube-Videos) – Whisper + NLP + mBART + KeyBERT  
 ---
 
 <!--
