@@ -34,9 +34,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" 
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avanigupta06&show_icons=true&theme=radical&hide_border=true" />
+
 
   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=avanigupta06&theme=radical" />
 </p>
