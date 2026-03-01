@@ -33,12 +33,29 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avanigupta06&show_icons=true&theme=radical&hide_border=true" />
+<table>
+<tr>
+<td align="center" width="60%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avanigupta06&theme=tokyonight"/>
+</td>
+<td align="center" width="40%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avanigupta06&theme=tokyonight"/>
+</td>
+</tr>
+</table>
 
+<br/>
 
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=avanigupta06&theme=radical" />
-</p>
+<table>
+<tr>
+<td align="center" width="65%">
+  <img width="100%" src="https://streak-stats.demolab.com?user=avanigupta06&theme=tokyonight"/>
+</td>
+<td align="center" width="35%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avanigupta06&theme=tokyonight"/>
+</td>
+</tr>
+</table>
 
 ---
 ![](https://komarev.com/ghpvc/?username=avanigupta06&color=orange)
