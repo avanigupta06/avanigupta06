@@ -14,7 +14,6 @@
 
 ---
 
-<!-- ⭐ NEW -->
 ## 🚀 About Me
 
 <table>
@@ -25,16 +24,12 @@
 - 🎓 B.Tech CSE @ Manipal University Jaipur (CGPA: 9.06)
 - 📚 Co-author of a Scopus Indexed Research Paper
 - 🤖 Building AI-powered applications using RAG & LLMs
-- 💻 Solved 500+ DSA Problems
 - ☁️ AWS + Docker Deployment Experience
 - 🌱 Exploring Agentic AI & Generative AI
 - 🚀 Passionate about AI Systems and Backend Engineering
 
 </td>
 
-<td width="40%">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
-</td>
 
 </tr>
 </table>
