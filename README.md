@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;Django+%7C+Docker+%7C+AWS+Developer;Generative+AI+Explorer;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;Django+%7C+Docker+%7C+AWS+Developer;Generative+AI+Explorer" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🏆 Achievements & Certifications
 * 🥇 Dean’s List (3×)
 * 📈 Top 10% of Batch
 * 💻 LeetCode 365 Days Badge
