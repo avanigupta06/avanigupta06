@@ -16,10 +16,7 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
 
-<td width="60%">
 
 - 🎓 B.Tech CSE @ Manipal University Jaipur (CGPA: 9.06)
 - 📚 Co-author of a Scopus Indexed Research Paper
@@ -28,14 +25,7 @@
 - 🌱 Exploring Agentic AI & Generative AI
 - 🚀 Passionate about AI Systems and Backend Engineering
 
-</td>
 
-<td width="40%">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%">
-</td>
-
-</tr>
-</table>
 
 
 ---
@@ -101,7 +91,6 @@
 ---
 
 ## 🏆 Achievements & Certifications
-* 🎓 B.Tech CSE @ Manipal University Jaipur (CGPA: 9.06)
 * 🥇 Dean’s List (3×)
 * 📈 Top 10% of Batch
 * 💻 LeetCode 365 Days Badge
