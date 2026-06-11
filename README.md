@@ -3,10 +3,42 @@
 </h2>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;Django+%7C+Docker+%7C+AWS+Developer;Generative+AI+Explorer;Competitive+Programmer" />
+</p>
+
+<p align="center">
   🎓 BTech CSE Student | AI + Fullstack Enthusiast <br/>
   💬 Love blending NLP + Backend + DevOps into real projects <br/>
   🔭 Currently learning: Generative AI
 </p>
+
+---
+
+<!-- ⭐ NEW -->
+## 🚀 About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+- 🎓 B.Tech CSE @ Manipal University Jaipur (CGPA: 9.06)
+- 📚 Co-author of a Scopus Indexed Research Paper
+- 🤖 Building AI-powered applications using RAG & LLMs
+- 💻 Solved 500+ DSA Problems
+- ☁️ AWS + Docker Deployment Experience
+- 🌱 Exploring Agentic AI & Generative AI
+- 🚀 Passionate about AI Systems and Backend Engineering
+
+</td>
+
+<td width="40%">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+</td>
+
+</tr>
+</table>
+
 
 ---
 
@@ -75,7 +107,7 @@
 * 🥇 Dean’s List (3×)
 * 📈 Top 10% of Batch
 * 💻 LeetCode 365 Days Badge
-* 🎓 Author of Automatic Chapter Generation for Hindi-English YouTube Videos research paper published in Journal of Information Systems Engineering and Management indexed by Scopus.
+* 🎓 Co-author of Automatic Chapter Generation for Hindi-English YouTube Videos research paper published in Journal of Information Systems Engineering and Management indexed by Scopus.
 * 🎓 AWS Fundamentals
 * 🎓 Cisco CCNA Enterprise Networking
 * 🎓 Oracle Certifications: Database Programming with PL/SQL, Database Foundations, Java Foundations
@@ -92,7 +124,7 @@
   <a href="https://www.linkedin.com/in/avani-gupta06/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://avani-portfolio-eta.vercel.app/">
+  <a href="https://avani-gupta-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/avani_gupta06/">
