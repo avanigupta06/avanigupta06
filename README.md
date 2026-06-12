@@ -18,7 +18,7 @@
 
 
 
-- 🎓 B.Tech CSE @ Manipal University Jaipur (CGPA: 9.06)
+- 🎓 B.Tech CSE @ Manipal University Jaipur (CGPA: 9.13)
 - 📚 Co-author of a Scopus Indexed Research Paper
 - 🤖 Building AI-powered applications using RAG & LLMs
 - ☁️ AWS + Docker Deployment Experience
